@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Titanic Data Analysis
 
 ## About the Project
@@ -54,3 +55,6 @@ The project uses the Titanic passenger dataset containing 891 rows and 12 column
 
 ## Author
 Baibhav kumar
+=======
+# DA
+>>>>>>> 71303b8eb176f47ac8d5f750197d8bb42d8f9a48
